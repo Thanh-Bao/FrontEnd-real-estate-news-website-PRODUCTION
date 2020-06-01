@@ -6,7 +6,6 @@
 [![Build Status](https://github.com/VictoriaMetrics/VictoriaMetrics/workflows/main/badge.svg)](https://github.com/VictoriaMetrics/VictoriaMetrics/actions)
 [![codecov](https://codecov.io/gh/VictoriaMetrics/VictoriaMetrics/branch/master/graph/badge.svg)](https://codecov.io/gh/VictoriaMetrics/VictoriaMetrics)
 
-![Victoria Metrics logo](logo.png "Victoria Metrics")
 
 
 # Demo FrontEnd website cập nhật tin tức về thị trường bất động sản tại Việt Nam
