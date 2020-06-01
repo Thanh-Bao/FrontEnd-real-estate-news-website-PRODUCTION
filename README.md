@@ -1,5 +1,3 @@
-https://img.shields.io/appveyor/build/gruntjs/grunt?style=plastic
-
 
 # Demo FrontEnd website cập nhật tin tức về thị trường bất động sản tại Việt Nam
 
