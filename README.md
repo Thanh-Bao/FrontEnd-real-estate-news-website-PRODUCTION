@@ -1,6 +1,6 @@
 # Demo FrontEnd website cập nhật tin tức về thị trường bất động sản tại Việt Nam
 
-Loại web : landing pag.
+Loại web : landing page.
 Chức năng : 
 + Đa ngôn ngữ
 + Dark mode
