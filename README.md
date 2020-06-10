@@ -11,7 +11,7 @@
 Loại web : landing page.
 Chức năng : 
 + Đa ngôn ngữ
-+ Dark mode
 + Xem tin nhanh hoặc xem full bản tin, mỗi bản tin có chức năng bình luận, chia sẻ lên MXH.
-+ tìm kiếm bản tin phù hợp dựa trên vị trí người dùng.
 + đọc bản tin. 
++ tìm kiếm bản tin phù hợp dựa trên vị trí người dùng.
+
