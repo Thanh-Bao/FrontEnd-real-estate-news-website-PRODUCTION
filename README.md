@@ -8,6 +8,7 @@
 
 # Demo FrontEnd website cập nhật tin tức về thị trường bất động sản tại Việt Nam
 
+Framework và library được sử dụng : ReactJS, Bootstrap 4, JQuery
 Loại web : landing page.
 Chức năng : 
 + Đa ngôn ngữ
