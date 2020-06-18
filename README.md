@@ -10,6 +10,7 @@
 
 Framework và library được sử dụng : ReactJS, Bootstrap 4, JQuery.
  websitevoice plugin, ipinfo.io API.
+ 
 Plugin, add-on : facebook comment, facebook like-share, google translate,  websitevoice plugin, ipinfo.io API.
 
 Loại web : static page.
