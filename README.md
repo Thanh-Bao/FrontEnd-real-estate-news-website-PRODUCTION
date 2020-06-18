@@ -9,7 +9,6 @@
 # Demo FrontEnd website cập nhật tin tức về thị trường bất động sản tại Việt Nam
 
 **Framework và library được sử dụng** : ReactJS, Bootstrap 4, JQuery.
- websitevoice plugin, ipinfo.io API.
  
 **Plugin, add-on** : facebook comment, facebook like-share, google translate,  websitevoice plugin, ipinfo.io API.
 
