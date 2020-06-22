@@ -20,7 +20,7 @@
 + đọc bản tin. 
 + tìm kiếm bản tin phù hợp dựa trên vị trí người dùng.
 
-# **Các module phải cài vào node_modules để khởi chạy project ở localhost :**
+### **Các module phải cài vào node_modules để khởi chạy project ở localhost :**
 1/ react router DOM
 
 ```npm install react-router-dom```
