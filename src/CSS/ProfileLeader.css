@@ -1,0 +1,62 @@
+.BaoBao .card-header {
+  padding: 50%;
+}
+
+.BaoBao .card-cover {
+  top: 15%;
+}
+
+.BaoBao .card-main {
+  margin-top: 2%;
+}
+
+.BaoBao .card-cover{
+  background: rgba(1, 255, 14, 0.233);
+}
+
+.BaoBao .social-container {
+  margin-top: 5%;
+}
+
+.BaoBao .card-cover {
+  width: 100%;
+  position: absolute;
+  height: 100%;
+  top: -10%;
+  left: 0;
+  will-change: top;
+  background-size: cover;
+  background-position: center;
+  filter: blur(30px);
+}
+
+.BaoBao .card-avatar {
+  width: 205px;
+  height: 205px;
+  margin-bottom: 1%;
+}
+
+.BaoBao .card-jobtitle {
+  font-size: 11px;
+  font-weight: bolder;
+}
+
+.BaoBao .card-subtitle {
+  font-size: 25px;
+}
+
+.BaoBao .card-desc {
+  padding-top: 8%;
+  font-size: 20px;
+  color: black;
+}
+
+#iconYoutube {
+  top: 11px;
+  left: 9px;
+}
+
+#iconFacebook {
+  top: 11px;
+  left: 14px;
+}

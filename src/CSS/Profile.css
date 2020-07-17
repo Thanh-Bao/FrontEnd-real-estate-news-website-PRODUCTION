@@ -1,0 +1,208 @@
+@import url("https://fonts.googleapis.com/css?family=DM+Sans:400,500|Jost:400,500,600&display=swap");
+* {
+  box-sizing: border-box;
+}
+
+.card-cover{
+  background: rgba(1, 255, 14, 0.335);
+}
+
+
+.card::-webkit-scrollbar {
+  display: none;
+}
+
+.card {
+  -ms-overflow-style: none;
+}
+
+.card-desc{
+  font-size: 20px;
+  color: black;
+}
+
+
+.card {
+  border: 1px solid;
+  border-color: rgba(0, 0, 0, 0.205);
+  max-width: 340px;
+  margin: auto;
+  overflow-y: auto;
+  position: relative;
+  overflow-x: hidden;
+  background-color: white;
+  display: flex;
+  transition: 0.3s;
+  flex-direction: column;
+  border-radius: 10px;
+  box-shadow: 0 0 0 8px rgba(255, 255, 255, 0.2);
+}
+
+.card-header {
+  position: relative;
+  display: flex;
+  height: 200px;
+  flex-shrink: 0;
+  width: 100%;
+  transition: 0.3s;
+}
+
+
+.card-cover {
+  width: 100%;
+  height: 100%;
+  height: 160px;
+  top: -20%;
+  left: 0;
+  will-change: top;
+  background-size: cover;
+  background-position: center;
+  filter: blur(50px);
+  transform: scale(1.2);
+}
+
+.card-avatar {
+  width: 120px;
+  height: 120px;
+  box-shadow: 0 8px 8px rgba(0, 0, 0, 0.623);
+  border-radius: 50%;
+  object-position: center;
+  object-fit: cover;
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  border: 6px solid ;
+  border-color: rgb(245, 248, 244);
+  transform: translateX(-50%) translateY(-64px);
+}
+
+.card-fullname {
+  position: absolute;
+  bottom: 0;
+  font-size: 22px;
+  font-weight: 700;
+  text-align: center;
+  white-space: nowrap;
+  transform: translateY(-10px) translateX(-50%);
+  left: 50%;
+}
+
+.card-jobtitle {
+  position: absolute;
+  bottom: 0;
+  font-size: 10px;
+  white-space: nowrap;
+  font-weight: 900;
+  opacity: 0.7;
+  text-transform: uppercase;
+  letter-spacing: 2.5px;
+  margin: 0;
+  left: 50%;
+  transform: translateX(-50%) translateY(-7px);
+}
+
+.card-main {
+  position: relative;
+  flex: 1;
+  display: flex;
+  padding-top: 10px;
+  flex-direction: column;
+  background: linear-gradient(to top, #ffffff4d 0%, #fdfdfd15 100%);
+}
+
+.card-subtitle {
+  font-weight: 700;
+  font-size: 18px;
+  margin-bottom: 8px;
+  color: black;
+}
+
+.card-content {
+  padding: 20px;
+}
+
+
+
+
+
+
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css);
+
+
+.social-icons {
+  padding: 0;
+  list-style: none;
+  margin: 1em;
+}
+.social-icons li {
+  display: inline-block;
+  margin: 0.15em;
+  position: relative;
+  font-size: 1.2em;
+}
+.social-icons i {
+  color: #fff;
+  position: absolute;
+  top: 11px;
+  left: 12px;
+  transition: all 265ms ease-out;
+}
+
+#iconYoutube{
+  top: 11px;
+  left: 9px;
+}
+#iconLink{
+  top: 11px;
+  left: 10px;
+}
+
+
+.social-icons a {
+  display: inline-block;
+}
+.social-icons a:before {
+  transform: scale(1);
+  -ms-transform: scale(1);
+  -webkit-transform: scale(1);
+  content: " ";
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  display: block;
+  background: linear-gradient(to right, #17b439ea 20%, #05a3ff 100%);
+  transition: all 265ms ease-out;
+}
+.social-icons a:hover:before {
+  transform: scale(0);
+  transition: all 265ms ease-in;
+}
+.social-icons a:hover i {
+  transform: scale(2.2);
+  -ms-transform: scale(2.2);
+  -webkit-transform: scale(2.2);
+  color: #0004ff;
+  background:rgb(0, 17, 255);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  transition: all 265ms ease-in;
+  border-radius: 50%;
+}
+.social-icons a.social-square:before {
+  background: rgb(25, 0, 255);
+  border-radius: 100%;
+}
+.social-icons a.social-square:hover:before {
+  transform: rotate(-180deg);
+  -ms-transform: rotate(-180deg);
+  -webkit-transform: scale(-180deg);
+  border-radius: 100%;
+}
+.social-icons a.social-square:hover i {
+  transform: scale(1.6);
+  -ms-transform: scale(1.6);
+  -webkit-transform: scale(1.6);
+  color: #fff;
+  transform: scale(1.6);
+  -webkit-text-fill-color: #fff;
+}

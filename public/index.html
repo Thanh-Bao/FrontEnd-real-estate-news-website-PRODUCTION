@@ -1,0 +1,104 @@
+<!-- /* ################################################################################################################################
+#                                                                                                                                 #
+#   _____ _               _   _                                      _                           ___   ___ ___   ___              #
+#  / ____(_)             | | (_)                                    (_)                         |__ \ / _ \__ \ / _ \             #
+# | |  __ _  __ _  ___   | |_ _  ___ _ __    _ __   __ _ _   _  ___  _   _ __ ___   __ _ _   _     ) | | | | ) | | | |            #
+# | | |_ | |/ _` |/ _ \  | __| |/ _ \ '_ \  | '_ \ / _` | | | |/ _ \| | | '_ ` _ \ / _` | | | |   / /| | | |/ /| | | |            #
+# | |__| | | (_| | (_) | | |_| |  __/ |_) | | | | | (_| | |_| | (_) | | | | | | | | (_| | |_| |  / /_| |_| / /_| |_| |            #
+#  \_____|_|\__,_|\___/   \__|_|\___| .__/  |_| |_|\__, |\__,_|\___/|_| |_| |_| |_|\__,_|\__, | |____|\___/____|\___/             #
+#                                  | |             __/ |                                 __/ |                                    #
+#                                  |_|            |___/                                 |___/                                     #
+#                                                                                                                                 #
+##################################################################################################################################  -->
+
+
+
+<!doctype html>
+<html lang="en">
+
+<head>
+
+  <!-- facebook chat messager  -->
+  <!-- <script src="https://app.respond.io/facebook/chat/plugin/34143/101397341588589" async defer></script> -->
+  <link rel="icon" href="%PUBLIC_URL%/media/logo.png" type="image/icon type">
+  <title>Tin tức bất động sản</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- for SEO and marketing -->
+  <meta name="description" content="tin tức mới nhất về bất động sản Việt Nam, tpHCM, Hà Nội">
+  <meta name="author" content="Trần Thanh Bảo - Bảo Bảo">
+  <meta name="keywords" content="bất động sản, nhà đất, giá nhà đất, tin tức bất động sản">
+  <!-- font lato & Fredoka One _ google CDN -->
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Lato:wght@900&display=swap" rel="stylesheet">
+  <!-- BootstrapCDN -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+  <!-- font awesome CDN -->
+  <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css">
+
+  <!-- chat zalo plugin -->
+  <div class="zalo-chat-widget" data-oaid="783045327304238665" data-welcome-message="Rất vui khi được hỗ trợ bạn!"
+    data-autopopup="0" data-width="350" data-height="420"></div>
+  <script src="https://sp.zalo.me/plugins/sdk.js"></script>
+
+</head>
+
+<body>
+  <noscript>Vui lòng bật javascript trên trình duyệt của bạn để tiếp tục truy cập website</noscript>
+  <!-- Chart for About -->
+  <script src="https://www.amcharts.com/lib/4/core.js"></script>
+  <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+  <script src="https://www.amcharts.com/lib/4/themes/material.js"></script>
+  <script src="https://www.amcharts.com/lib/4/themes/animated.js"></script>
+  <!-- /////////// for timeLine ///////////// -->
+  <script src="https://www.amcharts.com/lib/4/plugins/timeline.js"></script>
+  <script src="JS/ChartAbout.js"></script>
+  <!-- SDK facebook -->
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous"
+    src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v7.0"></script>
+  <!-- reactJS component -->
+  <div id="TinTucBatDongSan"></div>
+  <!-- jQueryCDN -->
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <!-- PopperCDN -->
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
+  <!-- JS for Bootstrap (CDN) -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  <!-- effect for navigation Bar -->
+  <script src="JS/NavigationBar.js"></script>
+  <!-- for google translate plugin -->
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({ pageLanguage: 'en' }, 'google_translate_element');
+    }
+  </script>
+  <script type="text/javascript"
+    src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+  <!-- // websitevoice -->
+  <script async src="https://widget.websitevoice.com/WrE_tUyd0p3Yk2YxPKlnmA"></script>
+  <script>
+    window.wvData = window.wvData || {}; function wvtag(a, b) { wvData[a] = b; }
+    wvtag('id', 'WrE_tUyd0p3Yk2YxPKlnmA');
+    wvtag('language', 'vi-VN');
+    wvtag('widget-style', {
+      backgroundColor: '#1178D1',
+      showTime: true,
+      buttonText: 'Read content'
+    });
+  </script>
+
+  <script async src="https://widget.websitevoice.com/WrE_tUyd0p3Yk2YxPKlnmA"></script>
+  <script async src="https://widget.websitevoice.com/WrE_tUyd0p3Yk2YxPKlnmA"></script>
+  <script async src="https://widget.websitevoice.com/WrE_tUyd0p3Yk2YxPKlnmA"></script>
+
+
+
+  <script src="//cdn.gaic.com/cdn/ui-bootstrap/0.58.0/js/lib/ckeditor/ckeditor.js"></script>
+  <script src="//cdn.gaic.com/cdn/ui-bootstrap/0.58.0/js/lib/jquery.min.js"></script>
+  <script src="//cdn.gaic.com/cdn/ui-bootstrap/0.58.0/js/lib/angular.min.js"></script>
+  <script src="//cdn.gaic.com/cdn/ui-bootstrap/0.58.0/js/gaig-ui-bootstrap.js"></script>
+
+</body>
+
+</html>

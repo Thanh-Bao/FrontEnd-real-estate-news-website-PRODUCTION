@@ -1,0 +1,180 @@
+.space-top-lg {
+  margin-top: 2cm;
+}
+
+.container > .row > .colLogin >.fb {
+  margin-top:10%;
+}
+
+/* style inputs and link buttons */
+.inputLogin,
+.btnLogin {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 4px;
+  margin: 5px 0;
+  opacity: 0.85;
+  display: inline-block;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none; /* remove underline from anchors */
+}
+
+.inputLogin:hover {
+  opacity: 1;
+}
+
+/* add appropriate colors to fb, twitter and google buttons */
+.fb {
+  background-color: #3b5998;
+  color: white;
+}
+
+.twitter {
+  background-color: #55acee;
+  color: white;
+}
+
+.google {
+  background-color: #dd4b39;
+  color: white;
+}
+.fb:hover {
+  background-color: #1f335d;
+  color: white;
+}
+
+.twitter:hover {
+  background-color: #437fad;
+  color: white;
+}
+
+.google:hover{
+  background-color: #a83324;
+  color: white;
+}
+
+/* style the submit button */
+input[type="submit"] {
+  background-color: #255efb;
+  color: white;
+  cursor: pointer;
+}
+
+.inputLogin[type="submit"]:hover {
+  background-color: rgb(26, 36, 182);
+}
+
+/* Two-column layout */
+.colLogin {
+  float: left;
+  width: 50%;
+  margin: auto;
+  padding: 0 50px;
+  margin-top: 6px;
+}
+
+.vl {
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  border: 2px solid #ddd;
+  height: 175px;
+}
+
+/* text inside the vertical line */
+.vl-innertext {
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #f1f1f1;
+  border: 1px solid #ccc;
+  border-radius: 50%;
+  padding: 8px 10px;
+}
+
+/* hide some text on medium and large screens */
+.hide-md-lg {
+  display: none;
+}
+
+/* bottom container */
+.bottom-container {
+  text-align: center;
+  background-color: #666;
+  border-radius: 0px 0px 4px 4px;
+}
+
+/* Responsive layout - when the screen is less than 650px wide, make the two columns stack on top of each other instead of next to each other */
+
+/* .col {
+      width: 100%;
+      margin-top: 0;
+    } */
+/* hide the vertical line */
+.vl {
+  display: none;
+}
+.hide-md-lg {
+  display: block;
+  text-align: center;
+}
+
+.bg-login {
+  background-color: #dbdbdb;
+}
+.sp-login {
+  padding-top: 0.5cm;
+}
+.sp-login {
+  padding-top: 0.5cm;
+}
+.iconLogin {
+  margin-top: 4px;
+  padding: 14px;
+  background: rgb(43, 171, 235);
+  color: white;
+  min-width: 50px;
+  height: 45px;
+  text-align: center;
+}
+.input-container {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.cl-login {
+  color: rgb(77, 74, 74);
+}
+.box {
+  float: left;
+}
+.f-right {
+  float: right;
+}
+.size-tabs {
+  height: 35px;
+  width: 90px;
+}
+.space-top-tabs {
+  margin-top: 1cm;
+}
+.space-bot {
+  margin-bottom: 0.5cm;
+}
+.center-tabs {
+  margin-left: auto;
+  margin-right: auto;
+
+  display: block;
+}
+
+.remember {
+  margin-left: -15px;
+}
+
+.size-btn {
+  font-size: 17.4px;
+}

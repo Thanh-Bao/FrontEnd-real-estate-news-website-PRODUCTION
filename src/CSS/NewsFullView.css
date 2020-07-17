@@ -1,0 +1,27 @@
+.imgFullView {
+  width: 100%;
+  height: auto;
+}
+
+.borderNews {
+  border: 1px solid;
+  border-radius: 30px;
+  border-color: rgba(20, 20, 20, 0.164);
+}
+
+.btnSwitch {
+  border-radius: 30px;
+}
+
+.btnPrevious {
+  float: left;
+}
+.btnNext {
+  float: right;
+}
+
+.imgFullView{
+  border-radius:30px;
+}
+
+
