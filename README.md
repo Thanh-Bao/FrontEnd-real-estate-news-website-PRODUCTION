@@ -30,9 +30,9 @@
 ```npm install jquery```
 
 
-[Imgur](https://i.imgur.com/mnUAVds.png)
+![Imgur](https://i.imgur.com/mnUAVds.png)
 
-![Imgur](https://imgur.com/tdc3a3Z)
+![Imgur](https://imgur.com/tdc3a3Z.png)
 
 ![Imgur](https://media.giphy.com/media/J4ssVe4zAndEAyGenk/giphy.gif)
 
