@@ -29,3 +29,13 @@
 
 ```npm install jquery```
 
+
+![Imgur](https://imgur.com/mnUAVds)
+
+![Imgur](https://imgur.com/tdc3a3Z)
+
+![Imgur](https://media.giphy.com/media/J4ssVe4zAndEAyGenk/giphy.gif)
+
+![Imgur](https://media.giphy.com/media/kBTWcvrusHndK4bKyV/giphy.gif)
+
+![Imgur](https://imgur.com/undefined)
