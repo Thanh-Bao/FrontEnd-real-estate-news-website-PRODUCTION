@@ -29,6 +29,9 @@
 
 ```npm install jquery```
 
+3/ Editor
+```npm install --save @ckeditor/ckeditor5-react @ckeditor/ckeditor5-build-classic```
+
 
 ![Imgur](https://i.imgur.com/mnUAVds.png)
 
