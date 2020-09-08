@@ -383,5 +383,12 @@ h2::after {
 
   
 }
+.form-search{
+  width: 500px;
+  height: 35px;
+}
+.title{
+  margin-left: 0.5cm;
+}
 
 
