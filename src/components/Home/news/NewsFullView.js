@@ -23,7 +23,7 @@ class NewsFullView extends Component {
 <ul id="breadcrumb">
         <li><a href="/"><span class="fas fa-globe"> </span></a></li>
         <li><a href="/home"><span class="icon icon-beaker"> </span> Home</a></li>
-        <li><a  className="disabledHoverBC"><span class="icon icon-double-angle-right"></span>{"Topic : "+ this.props.partURL_plugin_fb}</a></li>
+        <li><a  className="disabledHoverBC"><span class="icon icon-double-angle-right"></span>{"Topic: "+ this.props.partURL_plugin_fb}</a></li>
         <li></li>
     </ul>
 
