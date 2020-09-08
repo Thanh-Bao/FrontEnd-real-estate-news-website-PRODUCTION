@@ -51,7 +51,7 @@ class Search extends Component {
                 <div className="form-group mx-sm-3 mb-2">
                   <input
                     type="text"
-                    className="form-control"
+                    className="form-search"
                     placeholder="What do you want to search ?"
                   />
                 </div>
