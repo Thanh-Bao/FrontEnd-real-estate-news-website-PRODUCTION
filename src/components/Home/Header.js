@@ -30,7 +30,7 @@ class Header extends Component {
         <div className="container h-100">
           <div className="d-flex h-100 text-center align-items-center">
             <div className="w-100 text-white">
-              <h1 className="display-3 title_header">real estate news</h1>
+              <h1 className="display-3 title_header">Real estate news</h1>
               <p className="lead mb-0">
                 Stay up to date quickly with the latest news on the real market
                 Vietnamese real estate
