@@ -9,6 +9,12 @@
 #                                  |_|            |___/                                 |___/                                     #                                                                                                                                 #
 ################################################################################################################################## */
 
+
+#cke_editor1{
+  visibility: hidden;
+}
+
+
 /* Hide scrollbar for Chrome, Safari and Opera */
 body::-webkit-scrollbar {
   display: none;
@@ -383,12 +389,15 @@ h2::after {
 
   
 }
-.form-search{
-  width: 500px;
-  height: 35px;
-}
-.title{
+
+.form-search_title{
   margin-left: 0.5cm;
+  width: 92%;
+ 
+}
+
+.form-search{
+  width: 700px;
 }
 
 

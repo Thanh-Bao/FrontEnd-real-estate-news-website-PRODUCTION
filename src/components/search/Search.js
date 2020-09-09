@@ -52,7 +52,7 @@ class Search extends Component {
                   <input
                     type="text"
                     className="form-search"
-                    placeholder="What do you want to search ?"
+                    placeholder="                                                          What do you want to search ?"
                   />
                 </div>
                 <button
@@ -63,7 +63,7 @@ class Search extends Component {
                   aria-expanded="false"
                   aria-controls="collapseExample"
                 >
-                  <i className="fas fa-search"></i> Search by keyword
+                  <i className="fas fa-search"></i> Search
                 </button>
               </form>
               <div className="collapse" id="collapseExample">
@@ -153,11 +153,15 @@ class Search extends Component {
                     </tr>
                   </tbody>
                 </table>
+
+
+
+
+
                 {/* <tr> */}
                 {/* <th scope="row" colSpan="2"> */}
                 {/* bengin button */}
-                <div className="mt-3">
-                  {/* Button trigger modal */}
+                {/* <div className="mt-3">
                   <button
                     type="button"
                     className="btn btn-primary"
@@ -166,7 +170,6 @@ class Search extends Component {
                   >
                     <i className="fa fa-search-plus"></i> Search by location
                   </button>
-                  {/* Modal */}
                   <div
                     className="modal fade"
                     id="SearchLocation"
@@ -237,15 +240,55 @@ class Search extends Component {
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> */}
 
-                {/* end button */}
-                {/* </th> */}
-                {/* </tr> */}
               </div>
             </div>
           </div>
         </div>
+
+
+        <div className="container mt-4">
+          <div className="justify-content-center text-justify text-center">
+            
+         
+        <button
+            className="btn btn-primary "
+            type="button"
+            data-toggle="collapse"
+            data-target="#collapseExample"
+            aria-expanded="false"
+            aria-controls="collapseExample"
+          >
+            
+            <i className="fas fa-search"></i> Search
+                </button>
+                </div>
+          <div className="collapse" id="collapseExample">
+            <h5
+              className="justify-content-center text-center mt-4"
+              style={{ color: "gray" }}
+            >
+              Found 2 posts that suits you
+                </h5>
+            <NewsResultforSerch
+              path={data[4].linkTopic}
+              linkImg={data[4].imgsrc}
+              title={data[4].title}
+              content={data[4].description}
+              date="10/7/2020"
+            />
+            <NewsResultforSerch
+              path={data[1].linkTopic}
+              linkImg={data[1].imgsrc}
+              title={data[1].title}
+              content={data[1].description}
+              date="16/7/2020"
+            />
+          </div>
+
+        </div>
+
       </div>
     );
   }
