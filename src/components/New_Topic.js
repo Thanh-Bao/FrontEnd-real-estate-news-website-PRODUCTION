@@ -28,7 +28,7 @@ class New_Topic extends Component {
             <input
               type="text"
               className="form-search_title"
-              placeholder="Enter a Title"
+              placeholder="Enter title here"
             />
           </div>
 
