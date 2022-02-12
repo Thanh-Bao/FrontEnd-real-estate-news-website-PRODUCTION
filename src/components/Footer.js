@@ -38,7 +38,7 @@ class Footer extends Component {
 
                   {/* Github Button */}
                   <a
-                    href="https://github.com/Thanh-Bao/FrontEnd-real-estate-news-website"
+                    href="https://github.com/"
                     target="blank"
                     className="social-margin"
                   >
