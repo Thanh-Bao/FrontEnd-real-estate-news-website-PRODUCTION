@@ -13,8 +13,10 @@
 
 .new_footer_top {
   padding: 5px 0px 270px;
+  margin-top: 50px;
   position: relative;
   overflow-x: hidden;
+  background: linear-gradient(0deg, rgba(197,197,200,1) 0%, rgba(253,253,253,1) 80%);
 }
 
 .new_footer_top .footer_bg {
