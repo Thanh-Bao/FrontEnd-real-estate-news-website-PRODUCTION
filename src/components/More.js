@@ -280,13 +280,13 @@ class More extends Component {
               <div>
                 <h4>Địa Chỉ:</h4>
                 <p>
-                  <i className="fa fa-home"></i> Trụ sở chính : 346 Lý Thường Kiệt, Phường 8, quận 7, Tp.HCM
+                  <i className="fa fa-home"></i> Trụ sở chính : 346 Lý Thường Kiệt, Phường 8, quận 7, Tp.HCM.
                 </p>
                 <p>
                   <i className="fa fa-home"></i> Chi nhánh 1 : 543, đường Lê Lợi, Quận Ba Đình, Hà Nội.
                 </p>
                 <p>
-                  <i className="fa fa-home"></i> Chi nhánh 2 : 643, đường Quang Trung, Quận Ngũ Hành Sơn, Đà Nẵng
+                  <i className="fa fa-home"></i> Chi nhánh 2 : 643, đường Quang Trung, Quận Ngũ Hành Sơn, Đà Nẵng.
                 </p>
 
                 <h4>Liên hệ:</h4>
