@@ -32,9 +32,9 @@ class More extends Component {
         <div className="text-center introAbout">
           <h1>Tầm nhìn chiến lược và định hướng trong tương lai</h1>
           <p>
-            Công ty TNHH bất động sản Nông Lâm không chỉ là nền tảng cung cấp
+            Công ty TNHH bất động sản Bảo Bảo không chỉ là nền tảng cung cấp
             tin tức về thị trường Bất động sản chính xác và nhanh chóng nhất
-            Việt Nam, trong thời gian tới Công ty TNHH bất động sản Nông Lâm sẽ
+            Việt Nam, trong thời gian tới Công ty TNHH bất động sản Bảo Bảo sẽ
             phát triển thêm nền tảng môi giới bất động sản, có nhiệm vụ kết nối
             các nhà đầu tư với nhau trên khắp mọi miền tổ quốc.
           </p>
@@ -96,8 +96,8 @@ class More extends Component {
                       diễn biến thị trường BĐS tốt nhất Việt Nam.
                     </p>
                     <p className="overview">
-                      <b>Mr. Thanh Điền</b>, khoa Quản lý đất đai & bất động sản
-                      - Đại học Nông Lâm
+                      <b>Mr. Thanh Điền</b>, khoa bất động sản
+                      - Đại học Bách Khoa Hà Nội
                     </p>
                   </div>
 
@@ -127,7 +127,7 @@ class More extends Component {
                     </p>
                     <p className="overview">
                       <b>Mr. Công Danh</b>, khoa Công Nghệ Thông Tin - Đại học
-                      Nông Lâm
+                      Bách Khoa TP.HCM
                     </p>
                   </div>
                 </div>
@@ -249,9 +249,9 @@ class More extends Component {
 
         <div className="text-center googleFormFeedBack">
           <iframe
-            src="https://docs.google.com/forms/d/e/1FAIpQLSddSNGmKy7saz4xKeP8hKGj0RlnkHl2xmU2qJjWo58LwiqLFQ/viewform?embedded=true"
+            src="https://docs.google.com/forms/d/e/1FAIpQLSdp5cij5GSuJGFZvugT1pXQNFNBlafBema7RtsHawYuNMT64A/viewform?embedded=true"
             width="640"
-            height="650"
+            height="850"
             frameborder="0"
             marginheight="0"
             marginwidth="0"
@@ -265,7 +265,7 @@ class More extends Component {
             <div className="col-lg-6 mb-4 pl-5">
               <div className="googleMap">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.248272832275!2d106.78536971428014!3d10.86871179225896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752891cf0ca363%3A0x356ed7098d266f31!2zVHLGsOG7nW5nIMSQ4bqhaSBI4buNYyBOw7RuZyBMw6JtIFRQLkhDTQ!5e0!3m2!1svi!2s!4v1591683054049!5m2!1svi!2s"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d244.96076639272306!2d106.76371236679594!3d10.782774066492403!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317525edfebb3a21%3A0x60cb053942ad368a!2zU-G7kSAxNCwgxJHGsOG7nW5nIHPhu5EgMTA!5e0!3m2!1svi!2ssg!4v1644675037037!5m2!1svi!2ssg"
                   width="100%"
                   height="350px"
                   frameBorder={0}
@@ -280,17 +280,13 @@ class More extends Component {
               <div>
                 <h4>Địa Chỉ:</h4>
                 <p>
-                  <i className="fa fa-home"></i> Trụ sở chính : Trường Đại Học
-                  Nông Lâm Tp.HCM khu phố 6, phường Linh Trung, Quận Thủ Đức,
-                  Tp.HCM
+                  <i className="fa fa-home"></i> Trụ sở chính : 346 Lý Thường Kiệt, Phường 8, quận 7, Tp.HCM
                 </p>
                 <p>
-                  <i className="fa fa-home"></i> Chi nhánh 1 : KTX ĐHQG khu B
-                  phường Đông Hòa, Thị Xã Dĩ An, tỉnh Bình Dương
+                  <i className="fa fa-home"></i> Chi nhánh 1 : 543, đường Lê Lợi, Quận Ba Đình, Hà Nội.
                 </p>
                 <p>
-                  <i className="fa fa-home"></i> Chi nhánh 2 : KTX ĐHQG Khu A
-                  khu phố 6 - Phường Linh Trung - Quận Thủ Đức - Tp.HCM
+                  <i className="fa fa-home"></i> Chi nhánh 2 : 643, đường Quang Trung, Quận Ngũ Hành Sơn, Đà Nẵng
                 </p>
 
                 <h4>Liên hệ:</h4>
@@ -299,7 +295,7 @@ class More extends Component {
                 </p>
                 <p>
                   <i className="fa fa-envelope"></i> E-mail :
-                  batdongsan@nonglam.com
+                  contact@baobaogroup.com
                 </p>
               </div>
             </div>

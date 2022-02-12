@@ -50,7 +50,6 @@ class About extends Component {
                       <Profile
                         avatar={item.avatar}
                         name={item.fullName}
-                        MSSV={item.MSSV}
                         chucVu={item.chucvu}
                         webCaNhan={item.link.webCaNhan}
                         gioiThieu={item.gioithieu}

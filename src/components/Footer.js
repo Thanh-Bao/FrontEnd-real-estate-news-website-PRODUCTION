@@ -71,12 +71,12 @@ class Footer extends Component {
               </div>
 
               <div className="col-lg-6 text-justify text-center" >
-                <h5>Nong Lam Real Estate Co., Ltd</h5>
+                <h5>Bao Bao Real Estate Co., Ltd</h5>
                 <p>
                 Accurate and reliable news source about real estate market
                    Vietnam
                 </p>
-                <p id="Copyright1">Copyright © HCI Team NLU 2020.</p>
+                <p id="Copyright1">Copyright © Bao Bao Group 2020.</p>
               </div>
             </div>
           </div>

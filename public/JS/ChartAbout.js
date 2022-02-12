@@ -101,7 +101,7 @@ chart.data = [
   {
     category: "",
     year: "16/06/2020",
-    text: "Thành lập Công ty BĐS Nông Lâm",
+    text: "Thành lập Công ty BĐS Bảo Bảo Group",
   },
   {
     category: "",

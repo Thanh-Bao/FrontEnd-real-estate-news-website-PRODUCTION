@@ -29,7 +29,7 @@ class News_Block extends Component {
               <img
                 className="card-img-top imgNewsThumbnail"
                 src={this.props.block_img_src}
-                alt="image from bất động sản Nông Lâm 2020"
+                alt="image from bất động sản "
               />
             </a>
           </div>

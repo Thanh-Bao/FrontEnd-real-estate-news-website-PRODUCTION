@@ -2,53 +2,49 @@
   {
     "avatar": "media/avatarNghia.png",
     "fullName": "Hồ Quốc Nghĩa",
-    "MSSV": "18130150",
     "chucvu": "Biên tập viên",
     "gioithieu": "Đảm bảo thông tin luôn chính xác, kiểm duyệt nội dung bản tin trước khi đến tay đọc giả.",
     "link": {
-      "webCaNhan": "http://qunghianlu.tk",
-      "fb": "https://www.facebook.com/profile.php?id=100009998106031",
-      "youtube": "https://www.youtube.com/channel/UCCvNE-Xd8TuSyLK4TpFRB9g",
-      "github": "https://github.com/apeo8a123"
+      "webCaNhan": "http://qunghianlu",
+      "fb": "https://www.facebook.com",
+      "youtube": "https://www.youtube.com",
+      "github": "https://github.com"
     }
   },
   {
     "avatar": "media/avatarDuong.png",
     "fullName": "Lê Tuấn Dương",
-    "MSSV": "18130052",
     "chucvu": "Nhà báo, Phóng viên",
     "gioithieu": "Luôn có mặt kịp thời tại các dự án mới, không bỏ lỡ bất kỳ tin tức nào về thị trường BĐS.  ",
     "link": {
-      "webCaNhan": "http://tuanduongnlu.tk/",
-      "fb": "https://www.facebook.com/quen.lang.94214",
+      "webCaNhan": "http://tuanduongnlu",
+      "fb": "https://www.facebook.com",
       "youtube": "https://www.youtube.com",
-      "github": "https://github.com/tuanduongnlu"
+      "github": "https://github.com"
     }
   },
   {
     "avatar": "media/avatarCuong.png",
     "fullName": "Nguyễn Văn Cương",
-    "MSSV": "18130024",
     "chucvu": "Developer",
     "gioithieu": "Không ngừng phát triển nền tảng tin tức kỹ thuật số, luôn áp dụng các công nghệ mới nhất nhầm tối ưu trải nghiệm người dùng. ",
     "link": {
-      "webCaNhan": "https://cuongnguyennlu.tk/",
-      "fb": "https://www.facebook.com/tri.can.520",
+      "webCaNhan": "https://cuongnguyennl/",
+      "fb": "https://www.facebook.com",
       "youtube": "https://www.youtube.com",
-      "github": "https://github.com/CuongNguyen13"
+      "github": "https://github.com"
     }
   },
   {
     "avatar": "media/avatarHuan.jpg",
     "fullName": "Võ Đoàn Minh Huân",
-    "MSSV": "18130089",
     "chucvu": "Chuyên viên marketing",
     "gioithieu": "Đưa nền tảng đến tận tay người dùng, luôn lắng nghe feedback của họ. Đẩy mạnh quảng cáo trên các phương tiện truyền thông",
     "link": {
       "webCaNhan": "https://minhhuan.tk/",
-      "fb": "https://www.facebook.com/profile.php?id=100011287508032",
-      "youtube": "https://www.youtube.com/channel/UCol6-1rM-vyFYbbG2fdj3_A",
-      "github": "https://github.com/ElitotHuan"
+      "fb": "https://www.facebook.com",
+      "youtube": "https://www.youtube.com",
+      "github": "https://github.com"
     }
   }
 ]

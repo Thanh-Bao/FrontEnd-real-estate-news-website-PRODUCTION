@@ -10,7 +10,7 @@ class newsResultforSerch extends Component {
               <img
                 src={this.props.linkImg}
                 className="card-img"
-                alt="Nong Lam news"
+                alt="Bao Bao news"
               />
             </a>
           </div>

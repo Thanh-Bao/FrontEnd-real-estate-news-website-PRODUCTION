@@ -29,7 +29,6 @@ class Profile extends Component {
             alt="avatar"
           />
           <h1 className="card-fullname">Trần Thanh Bảo</h1>
-          <h2 className="card-jobtitle">18130017</h2>
         </div>
         <div className="card-main">
           <div className="card-section is-active" id="about">
@@ -54,19 +53,19 @@ class Profile extends Component {
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.facebook.com/thanhbao1122"
+                  <a href="https://www.facebook.com"
                   target="_blank">
                     <i className="fa fa-facebook" id="iconFacebook"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.youtube.com/channel/UCeZIUE4l4PJREEXD5P7hoNg/featured"
+                  <a href="https://www.youtube.com/"
                   target="_blank">
                     <i className="fab fa-youtube" id="iconYoutube"></i>
                   </a>
                 </li>
                 <li>
-                  <a href="https://github.com/Thanh-Bao"
+                  <a href="https://github.com"
                   target="_blank">
                     <i className="fa fa-github"></i>
                   </a>
