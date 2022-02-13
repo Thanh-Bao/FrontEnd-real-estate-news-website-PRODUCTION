@@ -13,23 +13,23 @@
 
 .new_footer_top {
   padding: 5px 0px 270px;
-  margin-top: 50px;
+  /* margin-top: 50px; */
   position: relative;
   overflow-x: hidden;
-  background: linear-gradient(0deg, rgba(197,197,200,1) 0%, rgba(253,253,253,1) 80%);
+  /* background: linear-gradient(0deg, rgba(197,197,200,1) 0%, rgba(253,253,253,1) 80%); */
 }
 
 .new_footer_top .footer_bg {
   position: absolute;
   bottom: 0;
-  background: url('https://firebasestorage.googleapis.com/v0/b/media-hci.appspot.com/o/footer_bg.png?alt=media&token=07e1d467-34f0-493f-9fb6-3f020b7e8666')
+  background: url('/media/footer_bg.png')
     no-repeat scroll center 0;
   width: 100%;
   height: 266px;
 }
 
 .new_footer_top .footer_bg .footer_bg_one {
-  background: url("https://firebasestorage.googleapis.com/v0/b/media-hci.appspot.com/o/volks.gif?alt=media&token=8b227741-4d55-4e9f-a11f-17edd52d5497")
+  background: url("/media/volks.gif")
     no-repeat center center;
   width: 330px;
   height: 105px;
@@ -42,7 +42,7 @@
 }
 
 .new_footer_top .footer_bg .footer_bg_two {
-  background: url("https://firebasestorage.googleapis.com/v0/b/media-hci.appspot.com/o/cyclist.gif?alt=media&token=6c58b811-d2e3-48b8-baff-a27c8bd9d3ce")
+  background: url("/media/cyclist.gif")
     no-repeat center center;
   width: 88px;
   height: 100px;
