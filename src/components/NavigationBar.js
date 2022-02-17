@@ -83,13 +83,13 @@ class NavigationBar extends Component {
                       </a>
 
                       {/* activeClassName="current_content" */}
-                      <a className="nav-link" href="about">
+                      {/* <a className="nav-link" href="about">
                         <li className="nav-item pl-4 pl-md-0 ml-0 ml-md-4">
                           <span>
                           <i className="far fa-address-card"></i> ABOUT
                           </span>
                         </li>
-                      </a>
+                      </a> */}
 
                       {/* activeClassName="current_content" */}
                       <a className="nav-link" href="more">
